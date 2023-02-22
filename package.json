@@ -1,0 +1,12 @@
+{
+  "name": "image-resizer-electron",
+  "productName" : "Image Resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+      "start" : "npx electronmon ."
+  },
+  "author": "Danilo Lora",
+  "license": "MIT"
+}
